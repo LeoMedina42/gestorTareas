@@ -1,0 +1,14 @@
+.seccion {
+      min-height: 400px;
+      border-radius: 10px;
+      padding: 1rem;
+    }
+    #terminadas {
+      background-color: #5a189a;
+    }
+    #proceso {
+      background-color: #1d3557;
+    }
+    #infoAccion {
+      background-color: #4361ee;
+    }

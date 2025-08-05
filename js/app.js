@@ -1,4 +1,4 @@
-
+import Tarea from './tareas.js';
 // 1. DOM
 const inputTarea = document.getElementById("nuevaTarea");
 const btnAgregar = document.getElementById("btnAgregar");
